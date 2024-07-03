@@ -1,1 +1,1 @@
-# staking-contracts-pyteal
+# xUSDStaking
